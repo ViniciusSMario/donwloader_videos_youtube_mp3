@@ -42,7 +42,7 @@ baixador-audio-youtube/
 ```
 
 ## Captura de Tela
-Adicione aqui uma captura de tela do projeto para mostrar a interface gráfica.
+![alt text](image.png)
 
 ## Recursos Utilizados
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Biblioteca para download de áudio/vídeo do YouTube.
