@@ -37,7 +37,7 @@ O módulo `tkinter` é embutido na maioria das instalações do Python. Caso nã
 ## Estrutura do Projeto
 ```
 baixador-audio-youtube/
-├── youtube_audio_gui.py   # Script principal do projeto
+├── baixador_videos.py   # Script principal do projeto
 ├── README.md              # Documentação do projeto
 ```
 
